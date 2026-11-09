@@ -4,14 +4,17 @@
  */
 package com.mycompany.miprimerproyecto;
 //autor y atajos
+
 /**
  *
  * @author test : atajos psvm sout + tab
  */
 
 public class Principal {
+
     public static void main(String[] args) {
         System.out.println("Hola Wilmer");
         System.out.println("automatico");
+        System.out.println("¡Esta es una prueba 100% automática desde los botones de NetBeans");
     }
 }
