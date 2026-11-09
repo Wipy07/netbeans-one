@@ -1,0 +1,15 @@
+# Ignorar la carpeta de compilación de Maven (Archivos pesados generados automáticamente)
+/target/
+
+# Ignorar archivos y carpetas internas de configuración de NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+nbproject/
+nbactions.xml
+nb-configuration.xml
+
+# Ignorar archivos del sistema operativo
+Thumbs.db
+.DS_Store
+
