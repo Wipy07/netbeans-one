@@ -12,5 +12,6 @@ package com.mycompany.miprimerproyecto;
 public class Principal {
     public static void main(String[] args) {
         System.out.println("Hola Wilmer");
+        System.out.println("automatico");
     }
 }
